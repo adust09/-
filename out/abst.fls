@@ -115,14 +115,10 @@ INPUT ./account.png
 INPUT ./account.png
 INPUT account.png
 INPUT extractbb -B cropbox -O account.png
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
-INPUT ./vote.png
-INPUT ./vote.png
-INPUT vote.png
-INPUT extractbb -B cropbox -O vote.png
 OUTPUT out/abst.dvi
 INPUT ./flow.png
 INPUT ./flow.png
 INPUT flow.png
 INPUT extractbb -B cropbox -O flow.png
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT out/abst.aux

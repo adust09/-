@@ -1,10 +1,10 @@
 # Fdb version 3
-["dvipdf"] 1637036082 "out/abst.dvi" "out/abst.pdf" "out/abst" 1637041564
-  "out/abst.dvi" 1637036082 8780 dcd977227f6cdd8729b42f5f5d4cdb04 "latex"
+["dvipdf"] 1637164812 "out/abst.dvi" "out/abst.pdf" "out/abst" 1637164814
+  "out/abst.dvi" 1637164812 10940 aa800beff7458cd7b3fb4b738c532c6b "latex"
   (generated)
   "out/abst.pdf"
-["latex"] 1637036081 "/Users/tsudashouki/tex/abst.tex" "out/abst.dvi" "abst" 1637041564
-  "/Users/tsudashouki/tex/abst.tex" 1637036073 5597 bf001af0f2fc8290b6f82a10d4a37c06 ""
+["latex"] 1637164811 "/Users/tsudashouki/tex/abst.tex" "out/abst.dvi" "abst" 1637164814
+  "/Users/tsudashouki/tex/abst.tex" 1637164811 6647 e355f1e3f036d4c665ee287a6ae1d0bb ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
@@ -36,12 +36,11 @@
   "/usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf" 1616443989 39972 3d6bb4d9d719e93193fa020b58adf5d4 ""
   "/usr/local/texlive/2021/texmf-var/web2c/eptex/platex.fmt" 1636635637 2717275 2dd97d5cf877e6a567ba6234ef0f0e6a ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "abst.tex" 1637036073 5597 bf001af0f2fc8290b6f82a10d4a37c06 ""
+  "abst.tex" 1637164811 6647 e355f1e3f036d4c665ee287a6ae1d0bb ""
   "account.png" 1636709058 14721 fb4195b3d1d5cb71c229743568ceb74a ""
-  "flow.png" 1636895473 120818 0b7460a9265702cd01f9c29f12c7e95b ""
-  "out/abst.aux" 1637036082 1030 a92efdfe17951fc499e6153d83fa4c0b "latex"
-  "vote.png" 1636876597 323470 3edc8b0377921fc1ceb464eebf9f23e1 ""
+  "flow.png" 1637164761 34817 a512387459be2e7d2354976b785652ee ""
+  "out/abst.aux" 1637164812 854 f6af4a8dcce432b604710779cb6904f3 "latex"
   (generated)
-  "out/abst.dvi"
   "out/abst.log"
+  "out/abst.dvi"
   "out/abst.aux"
