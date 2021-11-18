@@ -112,9 +112,9 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT ./account.png
-INPUT ./account.png
-INPUT account.png
-INPUT extractbb -B cropbox -O account.png
+INPUT ./share.png
+INPUT ./share.png
+INPUT share.png
+INPUT extractbb -B cropbox -O share.png
 OUTPUT out/abst.dvi
 INPUT out/abst.aux
