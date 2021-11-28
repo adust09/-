@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2021.11.11)  19 NOV 2021 12:48
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2021.11.11)  28 NOV 2021 00:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -141,15 +141,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 10.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 13.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 13.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 14.
 File: share.png Graphic file (type bmp)
 <share.png>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 51.
+(Font)              <7> on input line 65.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 51.
+(Font)              <5> on input line 65.
 [1
 
 
@@ -157,10 +157,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Here is how much of TeX's memory you used:
  1398 strings out of 479466
  21072 string characters out of 5870547
- 329958 words of memory out of 5000000
+ 331958 words of memory out of 5000000
  19126 multiletter control sequences out of 15000+600000
  413186 words of font info for 65 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  68i,8n,74p,284b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on out/abst.dvi (1 page, 7552 bytes).
+Output written on out/abst.dvi (1 page, 9744 bytes).
