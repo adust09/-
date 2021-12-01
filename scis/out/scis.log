@@ -1,10 +1,10 @@
-This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2021.11.11)  28 NOV 2021 00:17
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2021.11.11)  2 DEC 2021 03:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/tsudashouki/tex/abst.tex
-(/Users/tsudashouki/tex/abst.tex
+**/Users/tsudashouki/tex/scis/scis.tex
+(/Users/tsudashouki/tex/scis/scis.tex
 pLaTeX2e <2020-10-01>+2 (based on LaTeX2e <2020-10-01> patch level 4)
 L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/platex/base/jarticle.cls
 Document Class: jarticle 2020/09/30 v1.8f Standard pLaTeX class
@@ -75,8 +75,8 @@ File: l3backend-dvips.def 2021-03-18 L3 backend support: dvips
 \g__pdf_backend_annotation_int=\count192
 \g__pdf_backend_link_int=\count193
 \g__pdf_backend_link_sf_int=\count194
-) (out/abst.aux)
-\openout1 = `abst.aux'.
+) (out/scis.aux)
+\openout1 = `scis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
@@ -100,7 +100,7 @@ LaTeX Font Info:    ... okay on input line 8.
 *geometry* detected driver: dvips
 *geometry* verbose mode - [ preamble ] result:
 * driver: dvips
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
@@ -117,14 +117,14 @@ LaTeX Font Info:    ... okay on input line 8.
 * \headsep=25.0pt
 * \topskip=7.77588pt
 * \footskip=30.0pt
-* \marginparwidth=43.0pt
+* \marginparwidth=106.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
-* \@twocolumntrue
+* \@twocolumnfalse
 * \@twosidefalse
 * \@mparswitchfalse
 * \@reversemarginfalse
@@ -135,32 +135,28 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 10.
+(Font)              <14.4> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 10.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 14.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 14.
-File: share.png Graphic file (type bmp)
-<share.png>
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 65.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 65.
+(Font)              <7> on input line 10.
 [1
 
-
-] (out/abst.aux) ) 
+]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 11.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 11.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 12.
+[1] (out/scis.aux) ) 
 Here is how much of TeX's memory you used:
- 1398 strings out of 479466
- 21072 string characters out of 5870547
- 331958 words of memory out of 5000000
- 19126 multiletter control sequences out of 15000+600000
- 413186 words of font info for 65 fonts, out of 8000000 for 9000
+ 1374 strings out of 479466
+ 20853 string characters out of 5870547
+ 326804 words of memory out of 5000000
+ 19114 multiletter control sequences out of 15000+600000
+ 411122 words of font info for 58 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 68i,8n,74p,284b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,7n,74p,289b,303s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on out/abst.dvi (1 page, 9744 bytes).
+Output written on out/scis.dvi (2 pages, 6876 bytes).

@@ -1,10 +1,10 @@
-PWD /Users/tsudashouki/tex
+PWD /Users/tsudashouki/tex/abst
 INPUT /usr/local/texlive/2021/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-var/web2c/eptex/platex.fmt
-INPUT /Users/tsudashouki/tex/abst.tex
+INPUT /Users/tsudashouki/tex/abst/abst.tex
 OUTPUT out/abst.log
 INPUT /usr/local/texlive/2021/texmf-dist/tex/platex/base/jarticle.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/platex/base/jarticle.cls
